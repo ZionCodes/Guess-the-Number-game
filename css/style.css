@@ -1,0 +1,33 @@
+html {
+    font-family: sans-serif;
+  }
+
+  body {
+    width: 50%;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    background-color: #18298c;
+  }
+
+  .lastResult {
+    color: white;
+    padding: 3px;
+  }
+
+  .design {
+    
+    margin: 0 auto;
+    max-width: 400px;
+    max-height: 400px;
+    color: #f27781;
+    border-bottom: 5px groove#04bf8a;
+    border-top: 5px groove #f27781;
+    border-left: 5px groove  #f2cf1d;
+    border-right: 5px groove #f2cf1d;
+    padding: 5px;
+  }
+
+  h1 {
+    color: #04bf8a;
+  }
